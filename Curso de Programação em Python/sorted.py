@@ -25,8 +25,6 @@ print(sorted(numeros, reverse=True)) #Ordena do maior para o menor
 # Exemplo 2 - Mais complexo
 
 # Ordenando músicas do álbum MDT do Matuê:
-from curses import A_ALTCHARSET
-
 
 musicas = [
     {'titulo': 'Cogulândia', 'tocou': 24097979},
