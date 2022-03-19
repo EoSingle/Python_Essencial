@@ -1,0 +1,32 @@
+# Arquivo gerado durante a aula 'leitura_de_arquivos.py'
+
+Testando a função de abrir arquivos do Python "open".
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vel purus quis nunc consectetur hendrerit. Morbi arcu magna, blandit id rutrum ac, varius a justo.
+Praesent dictum metus at auctor varius. Nunc maximus erat ligula. Ut dictum mauris non diam congue tincidunt. Suspendisse potenti. Aliquam non euismod magna.
+Vivamus ultricies augue quis commodo lobortis. Nullam aliquet nec magna a volutpat.
+
+Cras iaculis quis enim sed accumsan. Ut consectetur venenatis arcu, non luctus arcu elementum consequat. In facilisis, metus id bibendum aliquet, purus nisl 
+vestibulum neque, nec tincidunt purus neque sed ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ut sem urna. In neque nibh, lacinia 
+ac ante quis, ornare porta neque. Nunc est lectus, viverra vitae magna sed, sodales scelerisque mauris. Maecenas ultrices eleifend euismod. Morbi sed justo ac 
+olor rhoncus efficitur. Nam finibus sodales nisl, sed convallis felis feugiat sed. Praesent lacinia lacus eget malesuada convallis. Donec malesuada posuere pulvinar.
+Quisque dignissim, sapien nec volutpat dictum, lorem sem rhoncus nunc, vitae dapibus enim velit eget mi.
+
+Sed vel metus et tellus viverra facilisis. Aenean id molestie lorem, finibus finibus quam. Vivamus gravida dignissim quam, vel eleifend dui molestie et. Integer 
+accumsan at urna ut blandit. Nullam at neque posuere, fringilla ligula eu, viverra urna. Vivamus maximus ut orci vitae elementum. Morbi iaculis justo condimentum 
+leo posuere molestie. Nulla rutrum porta tempor.
+
+Sed urna eros, convallis fringilla est vitae, vehicula imperdiet felis. Curabitur rutrum mauris est, sed facilisis mauris accumsan at. Mauris semper libero ligula. 
+Curabitur hendrerit purus eros, vel aliquam lorem posuere eget. In condimentum imperdiet sapien, eu scelerisque ante consectetur eu. Nunc vehicula, mauris sit amet 
+ultrices suscipit, quam lorem blandit ligula, quis pellentesque nisi nisl ornare metus. Nunc tellus ligula, volutpat eget urna ac, posuere egestas ligula. Donec 
+facilisis risus quis est congue, sit amet pretium mi vulputate. Nunc eu odio eleifend, malesuada lacus placerat, vulputate libero. Vivamus non erat nulla. Quisque 
+porttitor nunc in augue pellentesque, ac dapibus nunc elementum. In aliquam metus ut ante luctus, et aliquam lacus accumsan. Proin gravida quis nisi varius 
+scelerisque. Pellentesque ultrices posuere leo, eget ullamcorper quam ultrices malesuada.
+
+Donec dignissim quis quam quis semper. Nulla volutpat sit amet massa ac vestibulum. Morbi in tortor sed dui tincidunt faucibus sit amet tristique urna. Nunc 
+efficitur, magna ac pellentesque pellentesque, sem velit congue diam, sed tristique tellus felis vitae nunc. Duis auctor lorem in ligula mollis, eu gravida leo 
+convallis. Nulla egestas elementum velit, id eleifend nulla viverra id. Ut eget mi et enim mattis sollicitudin. Pellentesque habitant morbi tristique senectus et 
+netus et malesuada fames ac turpis egestas. Suspendisse fermentum hendrerit enim et fermentum. Nulla scelerisque odio sem, a efficitur lorem elementum vitae. Aenean 
+ornare rhoncus mauris, efficitur maximus nisl tincidunt nec. Nullam sodales suscipit risus, at faucibus lorem condimentum quis. Fusce velit urna, faucibus eget metus 
+in, cursus sagittis purus. Vestibulum nec aliquet eros, eget blandit dolor. Pellentesque ac aliquet enim, non scelerisque mauris.
+
